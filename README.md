@@ -1,4 +1,4 @@
-# Hands-on Rust Source Code
+# Hands-on Rust Source Code!
 
 This repository contains the source code for the examples found in [Hands-on Rust](https://hands-on-rust.com/). These are also available from my publisher, [PragProg](https://pragprog.com/titles/hwrust/hands-on-rust/) and are shared with their permission.
 
